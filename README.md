@@ -4,7 +4,7 @@
 
 # Olá, eu sou Willian Diego Alves dos Santos 👋
 
-<div>
+<div style="display:flex; justify-content: space-around">
   <a href="https://github.com/dwoond">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwoond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
