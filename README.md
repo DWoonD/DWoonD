@@ -2,9 +2,9 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQFSypGPcP5VLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1715638791995?e=1775088000&v=beta&t=pczC0jaHyfmbpOsePksvnwngt6j9IAvaZ6oqxD5aEEY" alt="Banner de apresentação" width="100%" />
 </div>
 
-# Olá, eu sou Willian Diego Alves dos Santos 👋
+# Olá, eu sou Willian D Santos 👋
 
-<div style="display:flex; justify-content: space-around">
+<div align="center">
   <a href="https://github.com/dwoond">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwoond&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
@@ -77,15 +77,3 @@ Gosto de transformar ideias em produtos, processos em sistemas e operações man
 ![Automação](https://img.shields.io/badge/Automação-111827?style=for-the-badge&logo=zapier&logoColor=FF4F00)
 
 ---
-
-## Áreas em que atuo
-
-```txt
-Arquitetura de software
-Desenvolvimento full stack
-Automação de processos
-Integrações entre APIs
-MicroSaaS e produtos digitais
-Tráfego pago e performance
-SEO e presença digital
-Estratégia para negócios digitais
