@@ -5,10 +5,10 @@
 # Olá, eu sou Willian Diego Alves dos Santos 👋
 
 <div>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/dwoond">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/dwoond">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </div>
