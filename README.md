@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFSypGPcP5VLw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1715638791995?e=1775088000&v=beta&t=pczC0jaHyfmbpOsePksvnwngt6j9IAvaZ6oqxD5aEEY" alt="Banner de apresentação" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHx3XehUGc2NA/profile-displaybackgroundimage-shrink_200_800/B4DZ440_ZFI8AQ-/0/1779069876047?e=1784160000&v=beta&t=nX7571jyAFO7C969UH80OnrwCUs6DWCXENK-qJDHHPQ" alt="Banner de apresentação" width="100%" />
 </div>
 
 # Olá, eu sou Willian D Santos 👋
